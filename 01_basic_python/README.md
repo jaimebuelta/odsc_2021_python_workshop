@@ -1,0 +1,1 @@
+Introduction to basic operations with Python that is basic for treating data and creating powerful scripts. Also, we will learn how to create a virtual environment to install third-party libraries and discuss how to search and find powerful libraries. It will also include creating flexible command-line interfaces and basic multiprocess operations.

@@ -1,0 +1,9 @@
+click
+sh
+pandas
+matplotlib
+pint
+delorean
+cython
+fpdf
+mistune
