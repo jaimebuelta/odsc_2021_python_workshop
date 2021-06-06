@@ -7,3 +7,4 @@ delorean
 cython
 fpdf
 mistune
+python-docx
